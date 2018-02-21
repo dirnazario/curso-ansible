@@ -1,1 +1,1 @@
-Repositorio para o curso ANSIBLE - ALURA teste
+Repositorio para o curso ANSIBLE - ALURA
